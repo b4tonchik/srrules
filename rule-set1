@@ -12,4 +12,7 @@ DOMAIN-SUFFIX,nhacmp3youtube.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,brawlstarsgame.com,DIRECT
+DOMAIN-SUFFIX,supercell.com,DIRECT
+DOMAIN-SUFFIX,usercentrics.eu,DIRECT
 DOMAIN-SUFFIX,signal.org
