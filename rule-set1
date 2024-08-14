@@ -3,7 +3,11 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtu.be
@@ -17,4 +21,3 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,brawlstarsgame.com,DIRECT
 DOMAIN-SUFFIX,supercell.com,DIRECT
 DOMAIN-SUFFIX,usercentrics.eu,DIRECT
-DOMAIN-SUFFIX,signal.org
