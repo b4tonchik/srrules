@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,nhacmp3youtube.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,brawlstarsgame.com,DIRECT
-DOMAIN-SUFFIX,supercell.com,DIRECT
-DOMAIN-SUFFIX,usercentrics.eu,DIRECT
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,usercentrics.eu
+DOMAIN-SUFFIX,threema.ch
+DOMAIN-SUFFIX,threema-id.ch
+DOMAIN-SUFFIX,threema-msg.ch
+DOMAIN-KEYWORD,threema-eu
